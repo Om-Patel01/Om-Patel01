@@ -44,6 +44,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Home Lab
-- Mini Soc
-- Active Directory
+- <a href="https://github.com/Om-Patel01/Home-Lab">Home Lab Cybersecurity</a>
+
